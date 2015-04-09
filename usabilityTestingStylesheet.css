@@ -1,0 +1,31 @@
+html{
+	font-family: sans-serif;
+}
+
+h1{
+	color: #a91a1e;
+	text-align: center;
+}
+
+h2{
+	color: #a91a1e;
+}
+
+p{
+	font-size: 14px;
+	text-align: justify;
+}
+
+
+
+/*#redBar{
+	background-color: #a91a1e;
+	height: 50px;
+	left: 0px;
+	position: fixed;
+	width: 100%;
+}
+
+div{
+	display: block;
+}*/
